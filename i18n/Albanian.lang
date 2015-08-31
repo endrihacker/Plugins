@@ -7,12 +7,12 @@
 
 {
    "sEmptyTable":     "Nuk ka asnjë të dhënë në tabele",
-   "sInfo":           "Duke treguar _START_ deri _END_ prej _TOTAL_ reshtave",
-   "sInfoEmpty":      "Duke treguar 0 deri 0 prej 0 reshtave",
-   "sInfoFiltered":   "(të filtruara nga gjithësej _MAX_  reshtave)",
+   "sInfo":           "Duke treguar _START_ deri _END_ prej _TOTAL_ rreshtave",
+   "sInfoEmpty":      "Duke treguar 0 deri 0 prej 0 rreshtave",
+   "sInfoFiltered":   "(të filtruara nga gjithësej _MAX_  rreshtave)",
    "sInfoPostFix":    "",
    "sInfoThousands":  ",",
-   "sLengthMenu":     "Shiko _MENU_ reshta",
+   "sLengthMenu":     "Shiko _MENU_ rreshta për faqe",
    "sLoadingRecords": "Duke punuar...",
    "sProcessing":     "Duke procesuar...",
    "sSearch":         "Kërkoni:",
@@ -24,7 +24,7 @@
        "sPrevious": "E Kaluara"
    },
    "oAria": {
-       "sSortAscending":  ": aktivizo për të sortuar kolumnin me vlera në ngritje",
-       "sSortDescending": ": aktivizo për të sortuar kolumnin me vlera në zbritje"
+       "sSortAscending":  ": aktivizo për të renditur kolonën me vlera në ngritje",
+       "sSortDescending": ": aktivizo për të renditur kolonën me vlera në zbritje"
    }
 }
